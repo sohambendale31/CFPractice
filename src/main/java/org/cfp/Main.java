@@ -4,7 +4,11 @@ package org.cfp;
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.
 public class Main {
     public static void main(String[] args) {
+//        Iterator
         IteratorPractice ip = new IteratorPractice();
         ip.execute();
+//        Priority Queue
+        PriorityQueuePractice pq = new PriorityQueuePractice();
+        pq.execute();
     }
 }
