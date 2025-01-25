@@ -10,5 +10,8 @@ public class Main {
 //        Priority Queue
         PriorityQueuePractice pq = new PriorityQueuePractice();
         pq.execute();
+//        Array Deque
+        ArrayDequePractice ad = new ArrayDequePractice();
+        ad.execute();
     }
 }
